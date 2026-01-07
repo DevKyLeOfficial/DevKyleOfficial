@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrKyDev.MrKyDev" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DevKyleOfficial.DevKyleOfficial" />
 
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+DevKy!;+Eager+to+be+a+Full+Stack+Dev" />
 </h1>
 
-![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DevKyleOfficial/DevKyleOfficial/blob/output/github-snake-dark.svg)
 
 <h3 align="center">Eager to become a Full Stack Developer</h3>
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/kyle-joshua-noel-alvaro-968061325/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="5%"/>
   </a>
-  <a href="https://github.com/MrKyDev" target="_blank">
+  <a href="https://github.com/DevKyleOfficial" target="_blank">
      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png" target="_blank" width="5%" />
   </a>
   <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
